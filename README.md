@@ -10,7 +10,9 @@ The output of this analysis will be included in a text file that should be easy 
 
 ## Election-Audit Results:
 ### Total number of votes casted in the congressional election
-  This election saw a good voter turnout and a total of **369,711** votes were casted across three counties. 
+  *This election saw a good voter turnout and a total of **369,711** votes were casted across three counties. 
+
+### 
 
 
 
