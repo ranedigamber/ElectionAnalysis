@@ -48,5 +48,6 @@ The output of this analysis will be included in a text file that should be easy 
  ![Code_total vote count](https://user-images.githubusercontent.com/107159218/176787828-ebb1f835-095e-4e80-9e57-3bc9e8898b37.JPG)
 
  
-### Challenges
+### Election Audit Summary
+
 
