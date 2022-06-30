@@ -55,5 +55,5 @@ The output of this analysis will be included in a text file that should be easy 
  
 ### Election Audit Summary
   * The script could be modifed for a national level elections, for example in this audit we declared a dictionary with *key=county* and *value=votes*. In a similar fashion we could use a dictionary of list with *key=states* and *values=[list of counties]*
-  * We could also use the script to iterate over results from past years or they type of ballots cast (mail in, hand counted or computer counted" which could provide more statistical information and reveal any underlying trends or preferences 
+  * We could also use the script to iterate over results from past years or they type of ballots cast (mail in, hand counted or computer counted) which could provide more statistical information and reveal any underlying trends or preferences 
 
