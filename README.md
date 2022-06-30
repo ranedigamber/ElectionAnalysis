@@ -14,9 +14,9 @@ The output of this analysis will be included in a text file that should be easy 
 
 ### Summary of number of votes and the percentage of total votes for each county in the precinct
   * The result of the number of votes cast and percentage of total votes are as follows:
-  ** Denver county: 82.8% (306,055)
-  ** Jefferson county: 10.5% (38,855)
-  ** Arapahoe county: 6.7% (24,801)
+    * Denver county: 82.8% (306,055)
+    * Jefferson county: 10.5% (38,855)
+    * Arapahoe county: 6.7% (24,801)
 
 
 
