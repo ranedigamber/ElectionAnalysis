@@ -9,11 +9,10 @@ The goal of this project was to help Tom who is a Colorado board of election emp
 The output of this analysis will be included in a text file that should be easy to read for audience of any background.
 
 ## Election-Audit Results:
-### Analysis
+### Total number of votes casted in the congressional election
+  This election saw a good voter turnout and a total of **369,711** votes were casted across three counties. 
 
-The data used for this research was collected from worldwide crowdfunding projects spanning the time frame 2010-2017. This comprised of 4114 crowdfunding projects. Our analysis was mostly restricted to a particular category (Theaters) and a subcategory (Plays) within as this would be most interesting to Louise.
 
-![Flowdiagram](https://user-images.githubusercontent.com/107159218/173957471-78c45497-88e4-4828-9844-fce23c06e217.png)
 
 ### Challenges
 
