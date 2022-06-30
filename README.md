@@ -32,19 +32,24 @@ The output of this analysis will be included in a text file that should be easy 
     * ***Diana DeGette*** who received **272,892** votes which was **73.8%** of the total votes casted.
  
 ### Various features of the code
-  * How to get candidate vote counts
+  * How to get candidate vote count
+ 
  ![Code Candidate vote count](https://user-images.githubusercontent.com/107159218/176787617-18729b4d-f7fc-45b2-b9c1-f8c46c1c9dea.JPG)
 
-  * How to get county vote counts
+  * How to get county vote count
+ 
  ![Code_countyvote count](https://user-images.githubusercontent.com/107159218/176787653-9dc5d13d-2cc9-4b7e-ad4d-94774a4a4e1e.JPG)
 
   * How to get candidate votes percentage
+ 
  ![Code_Candidate votes and their percentage](https://user-images.githubusercontent.com/107159218/176787717-54dc6077-5213-42a3-b38d-d2ef5ffb072c.JPG)
 
   * How to get county vote percentage
+ 
 ![Code_percentage of county votes](https://user-images.githubusercontent.com/107159218/176787780-d7fbdc41-35c7-4745-b9b6-1f68e7e2f016.JPG)
 
   * How to get total votes casted
+  
  ![Code_total vote count](https://user-images.githubusercontent.com/107159218/176787828-ebb1f835-095e-4e80-9e57-3bc9e8898b37.JPG)
 
  
