@@ -12,7 +12,11 @@ The output of this analysis will be included in a text file that should be easy 
 ### Total number of votes casted in the congressional election
   * This election saw a good voter turnout and a total of **369,711** votes were casted across three counties. 
 
-### 
+### Summary of number of votes and the percentage of total votes for each county in the precinct
+  * The result of the number of votes cast and percentage of total votes are as follows:
+  ** Denver county: 82.8% (306,055)
+  ** Jefferson county: 10.5% (38,855)
+  ** Arapahoe county: 6.7% (24,801)
 
 
 
