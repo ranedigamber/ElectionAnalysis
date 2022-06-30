@@ -23,28 +23,30 @@ The output of this analysis will be included in a text file that should be easy 
 
 ### Summary of number of votes and the percentage of total votes for each candidates overall
   * The following is the tabulated result for total votes and percentage of the total for the three candidates:
-    * **Diana Degette: 73.8% (272,892)**
+    * **Diana DeGette: 73.8% (272,892)**
     * Charles Casper Stockham: 23.0% (85,213)
     * Raymon Anthony Doane: 3.1% (11,606) 
 
+### Election outcome
+  * The winner for this election was:
+    * ***Diana DeGette*** who received **272,892** votes which was **73.8%** of the total votes casted.
+ 
+### Various features of the code
+  * How to get candidate vote counts
+ ![Code Candidate vote count](https://user-images.githubusercontent.com/107159218/176787617-18729b4d-f7fc-45b2-b9c1-f8c46c1c9dea.JPG)
+
+  * How to get county vote counts
+ ![Code_countyvote count](https://user-images.githubusercontent.com/107159218/176787653-9dc5d13d-2cc9-4b7e-ad4d-94774a4a4e1e.JPG)
+
+  * How to get candidate votes percentage
+ ![Code_Candidate votes and their percentage](https://user-images.githubusercontent.com/107159218/176787717-54dc6077-5213-42a3-b38d-d2ef5ffb072c.JPG)
+
+  * How to get county vote percentage
+![Code_percentage of county votes](https://user-images.githubusercontent.com/107159218/176787780-d7fbdc41-35c7-4745-b9b6-1f68e7e2f016.JPG)
+
+  * How to get total votes casted
+ ![Code_total vote count](https://user-images.githubusercontent.com/107159218/176787828-ebb1f835-095e-4e80-9e57-3bc9e8898b37.JPG)
+
+ 
 ### Challenges
 
-For both the analysis the only major challenge was my unfamiliarity with excel functions. For the first analysis generating pivot tables and charts was fairly straight forward. One issue that I face was when filtered using the newly created "Years" column. I would not see months and I had to use the "Date ended conversion" column instead as it breaks down into quaters and months.
-
-For the second analysis, my only complain would be typing the Goals column. I am sure that one could write a script to fill in this column, especially if there were more entries in this column than the 12 listed.
-
-## Result
-
-### Theater Outcome Based on Launch Date
-
-The two conclusions that can be drawn from this analysis are;
-1. Months May-July are most favorable to start a crowdfunding project. The success to fail ratio for these three months are quite similar (65%+/-2) and eventhough May would look the better month June would be not a distant second choice.
-2. Setting up a crowdfunding project should be avoided in the month of December as there's a equal chance that it may fail. 
-
-### Outcome Based on Goals
-
-The clear conclusion here is not to set a crowdfunding goal between $45,000-$49,999 as it has a 100% chance of failure. 
-
-## Limitation
-
-1. One limitation is that this data is not current and relies on information collected between 2010-2017. To get a more realistic picture data generate from 2015-current should be considered.
